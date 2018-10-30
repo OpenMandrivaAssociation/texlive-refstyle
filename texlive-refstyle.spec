@@ -6,7 +6,7 @@
 # catalog-version 0.5
 Name:		texlive-refstyle
 Version:	0.5
-Release:	11
+Release:	12
 Summary:	Advanced formatting of cross references
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/refstyle

@@ -1,6 +1,6 @@
 Name:		texlive-refstyle
-Version:	20318
-Release:	2
+Version:	69680
+Release:	1
 Summary:	Advanced formatting of cross references
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/refstyle

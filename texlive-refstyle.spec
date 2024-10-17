@@ -3,7 +3,7 @@ Version:	69680
 Release:	1
 Summary:	Advanced formatting of cross references
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/refstyle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/refstyle
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/refstyle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/refstyle.doc.r%{version}.tar.xz
